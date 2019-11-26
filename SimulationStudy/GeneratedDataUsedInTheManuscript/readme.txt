@@ -1,4 +1,4 @@
-This folder contains all data generated in the major and minor simulation studies.
+This folder contains all data generated in the simulation studies 1 and 2.
 Each .mat file contains two matrices: T (true unrescaled parameter coefficients in order a2, a1, a0, b2, b1, b0, h2, h1, h0)
 and F (1000 sets of fitted unrescaled parameter coefficients in order a2, a1, a0, b2, b1, b0, h2, h1, h0),
 fitted to log-transformed (log) and untransformed (nonlog)
